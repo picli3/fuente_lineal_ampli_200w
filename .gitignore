@@ -1,0 +1,10 @@
+*backups
+*.kicad_sch-bak
+*#auto_saved_files#
+*.csv
+*.xml
+*.lib
+*-bak
+*.step
+*rescue*
+*.net
